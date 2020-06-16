@@ -6,7 +6,11 @@ iOS Programming - Big Nerd Ranch 7th edition
 - Chapter 3 
 
 WorldTrotter
-![World Trotter]("images/chapter3.png")
+![World Trotter](chapter3.png)
+
+<img src="chapter3.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 Silver Challenge
 ![Silver Challenge]("images/chapter3-silverChallenge.png)
