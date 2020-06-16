@@ -8,11 +8,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ConversionViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        print("ConversionViewcontroller loaded its view.")
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        print("ConversionViewController appeared.")
     }
 
 
