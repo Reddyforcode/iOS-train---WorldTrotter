@@ -6,7 +6,7 @@ iOS Programming - Big Nerd Ranch 7th edition
 - Chapter 3 
 
 WorldTrotter
-![World Trotter]("https://github.com/Reddyforcode/iOS-train---WorldTrotter/blob/master/chapter3.png")
+![World Trotter](https://github.com/Reddyforcode/iOS-train---WorldTrotter/blob/master/chapter3.png)
 
 
 Silver Challenge
