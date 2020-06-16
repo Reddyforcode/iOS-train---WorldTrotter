@@ -10,5 +10,5 @@ WorldTrotter
 
 
 Silver Challenge
-![Silver Challenge](https://github.com/Reddyforcode/iOS-train---WorldTrotter/blob/master/chapter3-silverChallenge.png")
+![Silver Challenge]("https://github.com/Reddyforcode/iOS-train---WorldTrotter/blob/master/chapter3-silverChallenge.png")
 
