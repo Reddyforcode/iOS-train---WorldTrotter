@@ -12,7 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        let gradientLayer = CAGradientLayer()
+        gradientLayer.frame = view.bounds
+        gradientLayer.colors = [UIColor.blue.cgColor, UIColor.green.cgColor]
+        self.view.layer.insertSublayer(gradientLayer, at: 0)
     }
 
 
