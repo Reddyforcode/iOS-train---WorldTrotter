@@ -6,8 +6,8 @@ iOS Programming - Big Nerd Ranch 7th edition
 - Chapter 3 
 
 WorldTrotter
-![World Trotter]("images/chapter3.jpg")
+![World Trotter]("images/chapter3.png")
 
 Silver Challenge
-![Silver Challenge]("images/chapter3-silverChallenge.jpg)
+![Silver Challenge]("images/chapter3-silverChallenge.png)
 
